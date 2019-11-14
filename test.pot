@@ -1,0 +1,240 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2019-10-24T16:05:31.739Z\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"X-Generator: react-intl-po\n"
+
+
+#: .i18n-keys/src/live/Participant/ParticipantLandingPage/ParticipantLandingPageView.json
+#. [landing-page.date]
+#. defaultMessage is:
+#. Date
+msgid "Date"
+msgstr ""
+
+#: .i18n-keys/src/live/Participant/ParticipantMessages/Exercise/AskExercise/AgreementExercise/AgreementExerciseView.json
+#. [exercise.ask.agreement]
+#. defaultMessage is:
+#. Do you agree with the response above?
+msgid "Do you agree with the response above?"
+msgstr ""
+
+#: .i18n-keys/src/live/Participant/ParticipantLandingPage/ParticipantLandingPageView.json
+#. [landing-page.get-started]
+#. defaultMessage is:
+#. Get Started
+msgid "Get Started"
+msgstr ""
+
+#: .i18n-keys/src/live/Participant/ParticipantView.json
+#. [error-page.convo-ended.message]
+#. defaultMessage is:
+#. Hope to see you next time.
+msgid "Hope to see you next time."
+msgstr ""
+
+#: .i18n-keys/src/live/Participant/ParticipantMessages/Exercise/AskExercise/AgreementExercise/AgreementExerciseView.json
+#. [exercise.ask.agreement.agree]
+#. defaultMessage is:
+#. I agree
+msgid "I agree"
+msgstr ""
+
+#: .i18n-keys/src/live/Participant/ParticipantMessages/Exercise/AskExercise/PairExercise/OtherOptions.json
+#. [exercise.ask.pair.no-decision.agree]
+#. defaultMessage is:
+#. I agree with both
+msgid "I agree with both"
+msgstr ""
+
+#: .i18n-keys/src/live/Participant/ParticipantMessages/Exercise/AskExercise/PairExercise/OtherOptions.json
+#. [exercise.ask.pair.no-decision.header]
+#. defaultMessage is:
+#. I can't decide
+#: .i18n-keys/src/live/Participant/ParticipantMessages/Exercise/AskExercise/PairExercise/PairExerciseView.json
+#. [exercise.ask.pair.no-decision]
+#. defaultMessage is:
+#. I can't decide
+msgid "I can't decide"
+msgstr ""
+
+#: .i18n-keys/src/live/Participant/ParticipantMessages/Exercise/AskExercise/AgreementExercise/AgreementExerciseView.json
+#. [exercise.ask.agreement.disagree]
+#. defaultMessage is:
+#. I disagree
+msgid "I disagree"
+msgstr ""
+
+#: .i18n-keys/src/live/Participant/ParticipantMessages/Exercise/AskExercise/PairExercise/OtherOptions.json
+#. [exercise.ask.pair.no-decision.disagree]
+#. defaultMessage is:
+#. I disagree with both
+msgid "I disagree with both"
+msgstr ""
+
+#: .i18n-keys/src/live/Participant/ParticipantMessages/Exercise/AskExercise/PairExercise/OtherOptions.json
+#. [exercise.ask.pair.no-decision.unsure]
+#. defaultMessage is:
+#. I'm not sure
+msgid "I'm not sure"
+msgstr ""
+
+#: .i18n-keys/src/live/Participant/ParticipantLandingPage/ParticipantLandingPageView.json
+#. [landing-page.moderator]
+#. defaultMessage is:
+#. Moderator
+msgid "Moderator"
+msgstr ""
+
+#: .i18n-keys/src/global/ConversationTimer/LiveConversationTimer.json
+#. [header.timer.not-started]
+#. defaultMessage is:
+#. Not started
+msgid "Not started"
+msgstr ""
+
+#: .i18n-keys/src/live/Participant/ParticipantMessages/InactiveMessages/PollView/PollResponsesView.json
+#. [poll.results]
+#. defaultMessage is:
+#. Poll Results
+msgid "Poll Results"
+msgstr ""
+
+#: .i18n-keys/src/live/Participant/ParticipantMessages/InactiveMessages/AskView/DisplayedParticipantThought.json
+#. [feed.ask.see-more]
+#. defaultMessage is:
+#. See more
+#: .i18n-keys/src/live/Participant/ParticipantMessages/InactiveMessages/PollView/DisplayedPollOption.json
+#. [feed.poll.see-more]
+#. defaultMessage is:
+#. See more
+msgid "See more"
+msgstr ""
+
+#: .i18n-keys/src/live/Participant/ParticipantMessages/Exercise/PollExercise/MultiSelectExercise/MultiSelectExercise.json
+#. [exercise.poll.multi-select]
+#. defaultMessage is:
+#. Select all that apply
+msgid "Select all that apply"
+msgstr ""
+
+#: .i18n-keys/src/live/Participant/ParticipantMessages/Exercise/PollExercise/SingleSelectExercise/SingleSelectExercise.json
+#. [exercise.poll.single-select]
+#. defaultMessage is:
+#. Select one of the following
+msgid "Select one of the following"
+msgstr ""
+
+#: .i18n-keys/src/live/Participant/ParticipantView.json
+#. [error-page.unknown-message]
+#. defaultMessage is:
+#. Something went wrong.
+msgid "Something went wrong."
+msgstr ""
+
+#: .i18n-keys/src/global/ErrorPage/ErrorPage.json
+#. [error-page.general.message]
+#. defaultMessage is:
+#. Sorry, we can't find what you're looking for.
+#: .i18n-keys/src/live/Participant/ParticipantView.json
+#. [error-page.general.message]
+#. defaultMessage is:
+#. Sorry, we can't find what you're looking for.
+msgid "Sorry, we can't find what you're looking for."
+msgstr ""
+
+#: .i18n-keys/src/global/ConversationTimer/LiveConversationTimer.json
+#. [header.timer.starting-soon]
+#. defaultMessage is:
+#. Starting soon
+msgid "Starting soon"
+msgstr ""
+
+#: .i18n-keys/src/live/Participant/ParticipantMessages/Exercise/AskExercise/ThoughtExercise/ThoughtExercise.json
+#. [exercise.ask.thought.submit]
+#. defaultMessage is:
+#. Submit
+#: .i18n-keys/src/live/Participant/ParticipantMessages/Exercise/PollExercise/MultiSelectExercise/MultiSelectExercise.json
+#. [exercise.poll.submit]
+#. defaultMessage is:
+#. Submit
+#: .i18n-keys/src/live/Participant/ParticipantMessages/Exercise/PollExercise/SingleSelectExercise/SingleSelectExercise.json
+#. [exercise.poll.single-select.submit]
+#. defaultMessage is:
+#. Submit
+msgid "Submit"
+msgstr ""
+
+#: .i18n-keys/src/live/Participant/ParticipantMessages/InactiveMessages/AskView/AskSnapshotView.json
+#. [feed.ask.results]
+#. defaultMessage is:
+#. Summary of Responses
+msgid "Summary of Responses"
+msgstr ""
+
+#: .i18n-keys/src/live/Participant/ParticipantMessages/Exercise/AskExercise/PairExercise/OtherOptions.json
+#. [exercise.ask.pair.no-decision.similar]
+#. defaultMessage is:
+#. These are similar
+msgid "These are similar"
+msgstr ""
+
+#: .i18n-keys/src/live/Participant/ParticipantView.json
+#. [error-page.convo-ended.header]
+#. defaultMessage is:
+#. This conversation has ended!
+msgid "This conversation has ended!"
+msgstr ""
+
+#: .i18n-keys/src/live/Participant/ParticipantView.json
+#. [error-page.convo-full.message]
+#. defaultMessage is:
+#. We have reached capacity for this conversation. Hope to see you next time.
+msgid "We have reached capacity for this conversation. Hope to see you next time."
+msgstr ""
+
+#: .i18n-keys/src/live/Participant/ParticipantView.json
+#. [error-page.convo-full.header]
+#. defaultMessage is:
+#. We're sorry!
+msgid "We're sorry!"
+msgstr ""
+
+#: .i18n-keys/src/live/Participant/ParticipantMessages/InactiveMessages/AskView/AskSnapshotView.json
+#. [feed.ask.results.your-response]
+#. defaultMessage is:
+#. Your Response
+#: .i18n-keys/src/live/Participant/ParticipantMessages/InactiveMessages/AskView/DisplayedParticipantThought.json
+#. [feed.ask.your-response]
+#. defaultMessage is:
+#. Your Response
+#: .i18n-keys/src/live/Participant/ParticipantMessages/InactiveMessages/PollView/DisplayedPollOption.json
+#. [feed.poll.your-response]
+#. defaultMessage is:
+#. Your Response
+#: .i18n-keys/src/live/Participant/ParticipantMessages/InactiveMessages/PollView/PollResponsesView.json
+#. [feed-poll.results.your-response]
+#. defaultMessage is:
+#. Your Response
+msgid "Your Response"
+msgstr ""
+
+#: .i18n-keys/src/live/Participant/ParticipantMessages/InactiveMessages/AskView/AskSnapshotView.json
+#. [feed.ask.results.agree]
+#. defaultMessage is:
+#. agree
+#: .i18n-keys/src/live/Participant/ParticipantMessages/InactiveMessages/AskView/DisplayedParticipantThought.json
+#. [feed.ask.agree]
+#. defaultMessage is:
+#. agree
+msgid "agree"
+msgstr ""
+
+#: .i18n-keys/src/global/ErrorPage/ErrorPage.json
+#. [error-page.general]
+#. defaultMessage is:
+#. {errorCode} error
+msgid "{errorCode} error"
+msgstr ""
