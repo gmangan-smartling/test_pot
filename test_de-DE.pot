@@ -12,42 +12,48 @@ msgstr ""
 #. defaultMessage is:
 #. Date
 msgid "Date"
-msgstr "Date"
+msgstr "Datum"
+
 
 #: .i18n-keys/src/live/Participant/ParticipantMessages/Exercise/AskExercise/AgreementExercise/AgreementExerciseView.json
 #. [exercise.ask.agreement]
 #. defaultMessage is:
 #. Do you agree with the response above?
 msgid "Do you agree with the response above?"
-msgstr "Do you agree with the response above?"
+msgstr "Stimmen Sie der obigen Antwort zu?"
+
 
 #: .i18n-keys/src/live/Participant/ParticipantLandingPage/ParticipantLandingPageView.json
 #. [landing-page.get-started]
 #. defaultMessage is:
 #. Get Started
 msgid "Get Started"
-msgstr "Get Started"
+msgstr "Loslegen"
+
 
 #: .i18n-keys/src/live/Participant/ParticipantView.json
 #. [error-page.convo-ended.message]
 #. defaultMessage is:
 #. Hope to see you next time.
 msgid "Hope to see you next time."
-msgstr "Hope to see you next time."
+msgstr "Ich hoffe, wir sehen uns beim nächsten Mal."
+
 
 #: .i18n-keys/src/live/Participant/ParticipantMessages/Exercise/AskExercise/AgreementExercise/AgreementExerciseView.json
 #. [exercise.ask.agreement.agree]
 #. defaultMessage is:
 #. I agree
 msgid "I agree"
-msgstr "I agree"
+msgstr "Genau"
+
 
 #: .i18n-keys/src/live/Participant/ParticipantMessages/Exercise/AskExercise/PairExercise/OtherOptions.json
 #. [exercise.ask.pair.no-decision.agree]
 #. defaultMessage is:
 #. I agree with both
 msgid "I agree with both"
-msgstr "I agree with both"
+msgstr "Ich stimme beiden zu"
+
 
 #: .i18n-keys/src/live/Participant/ParticipantMessages/Exercise/AskExercise/PairExercise/OtherOptions.json
 #. [exercise.ask.pair.no-decision.header]
@@ -58,28 +64,32 @@ msgstr "I agree with both"
 #. defaultMessage is:
 #. I can't decide
 msgid "I can't decide"
-msgstr "I can't decide"
+msgstr "Ich kann mich nicht entscheiden"
+
 
 #: .i18n-keys/src/live/Participant/ParticipantMessages/Exercise/AskExercise/AgreementExercise/AgreementExerciseView.json
 #. [exercise.ask.agreement.disagree]
 #. defaultMessage is:
 #. I disagree
 msgid "I disagree"
-msgstr "I disagree"
+msgstr "ich stimme dir nicht zu"
+
 
 #: .i18n-keys/src/live/Participant/ParticipantMessages/Exercise/AskExercise/PairExercise/OtherOptions.json
 #. [exercise.ask.pair.no-decision.disagree]
 #. defaultMessage is:
 #. I disagree with both
 msgid "I disagree with both"
-msgstr "I disagree with both"
+msgstr "Ich bin mit beiden nicht einverstanden"
+
 
 #: .i18n-keys/src/live/Participant/ParticipantMessages/Exercise/AskExercise/PairExercise/OtherOptions.json
 #. [exercise.ask.pair.no-decision.unsure]
 #. defaultMessage is:
 #. I'm not sure
 msgid "I'm not sure"
-msgstr "I'm not sure"
+msgstr "ich bin mir nicht sicher"
+
 
 #: .i18n-keys/src/live/Participant/ParticipantLandingPage/ParticipantLandingPageView.json
 #. [landing-page.moderator]
@@ -93,14 +103,16 @@ msgstr "Moderator"
 #. defaultMessage is:
 #. Not started
 msgid "Not started"
-msgstr "Not started"
+msgstr "Nicht angefangen"
+
 
 #: .i18n-keys/src/live/Participant/ParticipantMessages/InactiveMessages/PollView/PollResponsesView.json
 #. [poll.results]
 #. defaultMessage is:
 #. Poll Results
 msgid "Poll Results"
-msgstr "Poll Results"
+msgstr "Umfrageergebnisse"
+
 
 #: .i18n-keys/src/live/Participant/ParticipantMessages/InactiveMessages/AskView/DisplayedParticipantThought.json
 #. [feed.ask.see-more]
@@ -111,28 +123,32 @@ msgstr "Poll Results"
 #. defaultMessage is:
 #. See more
 msgid "See more"
-msgstr "See more"
+msgstr "Mehr sehen"
+
 
 #: .i18n-keys/src/live/Participant/ParticipantMessages/Exercise/PollExercise/MultiSelectExercise/MultiSelectExercise.json
 #. [exercise.poll.multi-select]
 #. defaultMessage is:
 #. Select all that apply
 msgid "Select all that apply"
-msgstr "Select all that apply"
+msgstr "Wählen Sie alle zutreffenden"
+
 
 #: .i18n-keys/src/live/Participant/ParticipantMessages/Exercise/PollExercise/SingleSelectExercise/SingleSelectExercise.json
 #. [exercise.poll.single-select]
 #. defaultMessage is:
 #. Select one of the following
 msgid "Select one of the following"
-msgstr "Select one of the following"
+msgstr "Wählen Sie eine der folgenden Möglichkeiten"
+
 
 #: .i18n-keys/src/live/Participant/ParticipantView.json
 #. [error-page.unknown-message]
 #. defaultMessage is:
 #. Something went wrong.
 msgid "Something went wrong."
-msgstr "Something went wrong."
+msgstr "Etwas ist schief gelaufen."
+
 
 #: .i18n-keys/src/global/ErrorPage/ErrorPage.json
 #. [error-page.general.message]
@@ -143,14 +159,16 @@ msgstr "Something went wrong."
 #. defaultMessage is:
 #. Sorry, we can't find what you're looking for.
 msgid "Sorry, we can't find what you're looking for."
-msgstr "Sorry, we can't find what you're looking for."
+msgstr "Entschuldigung, wir können nicht finden, wonach Sie suchen."
+
 
 #: .i18n-keys/src/global/ConversationTimer/LiveConversationTimer.json
 #. [header.timer.starting-soon]
 #. defaultMessage is:
 #. Starting soon
 msgid "Starting soon"
-msgstr "Starting soon"
+msgstr "Beginnt bald"
+
 
 #: .i18n-keys/src/live/Participant/ParticipantMessages/Exercise/AskExercise/ThoughtExercise/ThoughtExercise.json
 #. [exercise.ask.thought.submit]
@@ -165,42 +183,48 @@ msgstr "Starting soon"
 #. defaultMessage is:
 #. Submit
 msgid "Submit"
-msgstr "Submit"
+msgstr "einreichen"
+
 
 #: .i18n-keys/src/live/Participant/ParticipantMessages/InactiveMessages/AskView/AskSnapshotView.json
 #. [feed.ask.results]
 #. defaultMessage is:
 #. Summary of Responses
 msgid "Summary of Responses"
-msgstr "Summary of Responses"
+msgstr "Zusammenfassung der Antworten"
+
 
 #: .i18n-keys/src/live/Participant/ParticipantMessages/Exercise/AskExercise/PairExercise/OtherOptions.json
 #. [exercise.ask.pair.no-decision.similar]
 #. defaultMessage is:
 #. These are similar
 msgid "These are similar"
-msgstr "These are similar"
+msgstr "Diese sind ähnlich"
+
 
 #: .i18n-keys/src/live/Participant/ParticipantView.json
 #. [error-page.convo-ended.header]
 #. defaultMessage is:
 #. This conversation has ended!
 msgid "This conversation has ended!"
-msgstr "This conversation has ended!"
+msgstr "Dieses Gespräch ist beendet!"
+
 
 #: .i18n-keys/src/live/Participant/ParticipantView.json
 #. [error-page.convo-full.message]
 #. defaultMessage is:
 #. We have reached capacity for this conversation. Hope to see you next time.
 msgid "We have reached capacity for this conversation. Hope to see you next time."
-msgstr "We have reached capacity for this conversation. Hope to see you next time."
+msgstr "Wir haben Kapazitäten für dieses Gespräch erreicht. Ich hoffe, wir sehen uns beim nächsten Mal."
+
 
 #: .i18n-keys/src/live/Participant/ParticipantView.json
 #. [error-page.convo-full.header]
 #. defaultMessage is:
 #. We're sorry!
 msgid "We're sorry!"
-msgstr "We're sorry!"
+msgstr "Es tut uns leid!"
+
 
 #: .i18n-keys/src/live/Participant/ParticipantMessages/InactiveMessages/AskView/AskSnapshotView.json
 #. [feed.ask.results.your-response]
@@ -219,7 +243,8 @@ msgstr "We're sorry!"
 #. defaultMessage is:
 #. Your Response
 msgid "Your Response"
-msgstr "Your Response"
+msgstr "Deine Antwort"
+
 
 #: .i18n-keys/src/live/Participant/ParticipantMessages/InactiveMessages/AskView/AskSnapshotView.json
 #. [feed.ask.results.agree]
@@ -230,7 +255,7 @@ msgstr "Your Response"
 #. defaultMessage is:
 #. agree
 msgid "agree"
-msgstr "agree"
+msgstr "zustimmen"
 
 #: .i18n-keys/src/global/ErrorPage/ErrorPage.json
 #. [error-page.general]
