@@ -238,3 +238,10 @@ msgstr ""
 #. {errorCode} error
 msgid "{errorCode} error"
 msgstr ""
+
+#: .i18n-keys/src/live/Participant/ParticipantView.json
+#. [error-page.convo-full.header]
+#. defaultMessage is:
+#. This is a new string!
+msgid "This is a new string!"
+msgstr ""
